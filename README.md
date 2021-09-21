@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bryce Tichit
 
-<!--
-**Akaban/akaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Polyglot and Product-oriented Software Engineer having worked on a lot of fields, including Data Science and Machine Learning. After 2y experience as a Data Scientist in a French unicorn company I decided to try and start my own SaaS product.
 
-Here are some ideas to get you started:
+![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=bryce-tichit&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryce-tichit&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow Me
+
+🔗 Website: https://tichit.net/<br/>
+🐦 Twitter: https://twitter.com/BryceTichit<br/>
+👨‍💼 LinkedIn: https://www.linkedin.com/in/bryce-tichit-a725a6148/<br/>
+✉️ Email: bryce@tichit.net
