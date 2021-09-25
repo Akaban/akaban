@@ -11,3 +11,5 @@ Polyglot and Product-oriented Software Engineer having worked on a lot of fields
 🐦 Twitter: https://twitter.com/BryceTichit<br/>
 👨‍💼 LinkedIn: https://www.linkedin.com/in/bryce-tichit-a725a6148/<br/>
 ✉️ Email: bryce@tichit.net
+
+Available for consulting, more information at https://tichit.net/consulting
