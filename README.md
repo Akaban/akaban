@@ -16,4 +16,4 @@ Focus on Python and Clojure.
 
 Available for consulting, more information at https://tichit.net/consulting
 
-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
+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
