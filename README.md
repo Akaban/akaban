@@ -15,5 +15,3 @@ Focus on Python and Clojure.
 ✉️ Email: bryce@tichit.net
 
 Available for consulting, more information at https://tichit.net/consulting
-
-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
